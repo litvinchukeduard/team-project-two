@@ -1,5 +1,5 @@
 def hello():
     print("Hello!")
-# My first comment
+s = '12345' # My first comment
 def main():
     hello()
